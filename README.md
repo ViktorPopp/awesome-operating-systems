@@ -9,3 +9,7 @@ Astral is a POSIX compatible operating system written in C with advanced feature
 Website: [astral-os.org](https://astral-os.org/)<br>
 Source: [Mathewnd/astral - GitHub](https://github.com/Mathewnd/Astral)<br>
 Maintainer: [Mathewnd](https://github.com/Mathewnd)
+
+## Rules for adding new operating systems
+
+If you are associated with a programming language (for example: through endorsement or being an internal contributor) you will not be able to add it unless you can prove its notability by citing multiple external sources that were not created with a conflict of interest.
