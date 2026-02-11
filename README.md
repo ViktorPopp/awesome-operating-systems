@@ -20,5 +20,11 @@ TODO:
 - Managarm
 - OBOS
 - banan-os
+- PatchworkOS
+- SerenityOS
+- Redox
+- ReactOS
+- ToaruOS
+- Maestro
 
 -->
